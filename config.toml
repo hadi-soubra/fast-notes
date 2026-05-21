@@ -1,0 +1,11 @@
+[window]
+width = 450
+height = 700
+title = "Fast Notes"
+
+[window.position]
+x = 1450
+y = 200
+
+[window.style]
+background_opacity = 0.7
