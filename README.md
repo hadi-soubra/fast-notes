@@ -2,6 +2,8 @@
 
 A lightweight floating notes app built with GTK3 for Hyprland/Wayland. Stays out of your way — summon it with a keybind, jot something down, dismiss it.
 
+![Fast Notes screenshot](assets/image.png)
+
 ## Features
 
 - Multi-tab notes with auto-named tabs from content
